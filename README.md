@@ -5,8 +5,8 @@
 💻 With a strong passion for technology and development, I have honed my skills in various programming languages and frameworks, including Python, Java, C++, HTML, CSS, JavaScript, Angular JS, React JS, SQL, and more.
 
 ## Professional Experience
-Graduate Research Assistant at Penn State (Aug 2023 – Present): Working on a web application using Python Flask, React JS, and MongoDB. Also involved in a project that combines Data Science, XAI, and Reinforcement Learning.
-Programmer Analyst at Cognizant Technology Solutions (Jul 2021 – Jul 2023): Full-stack development, data integrity checks, CI/CD engineering, and more.
+ - Graduate Research Assistant at Penn State (Aug 2023 – Present): Working on a web application using Python Flask, React JS, and MongoDB. Also involved in a project that combines Data Science, XAI, and Reinforcement Learning.
+ - Programmer Analyst at Cognizant Technology Solutions (Jul 2021 – Jul 2023): Full-stack development, data integrity checks, CI/CD engineering, and more.
 
 ## Certifications
 - AWS Certified Solutions Architect – Associate
