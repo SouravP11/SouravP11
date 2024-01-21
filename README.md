@@ -14,8 +14,8 @@
 - Microsoft Certified Azure Data Fundamentals
 
 ## Connect With Me
-Email: souravp55i@gmail.com
-LinkedIn: linkedin.com/in/sourav-panda-042170171
+ - Email: souravp55i@gmail.com
+ - LinkedIn: linkedin.com/in/sourav-panda-042170171
 
 <!---
 SouravP11/SouravP11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
