@@ -9,9 +9,9 @@ Graduate Research Assistant at Penn State (Aug 2023 – Present): Working on a w
 Programmer Analyst at Cognizant Technology Solutions (Jul 2021 – Jul 2023): Full-stack development, data integrity checks, CI/CD engineering, and more.
 
 ## Certifications
-AWS Certified Solutions Architect – Associate
-Microsoft Certified Azure AI Fundamentals
-Microsoft Certified Azure Data Fundamentals
+- AWS Certified Solutions Architect – Associate
+- Microsoft Certified Azure AI Fundamentals
+- Microsoft Certified Azure Data Fundamentals
 
 ## Connect With Me
 Email: souravp55i@gmail.com
